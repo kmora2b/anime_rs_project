@@ -6,5 +6,8 @@ Setup Jupyter from their [website](https://jupyter.org/install)
 
 You can run the local version once you have Jupyer installed and have cloned the repo.
 
+## Dataset
+https://www.kaggle.com/datasets/jef1056/anime-subtitles
+
 ## Video Presentation
 Slide deck as pdf in this repo and video presentation
