@@ -10,4 +10,4 @@ You can run the local version once you have Jupyer installed and have cloned the
 https://www.kaggle.com/datasets/jef1056/anime-subtitles
 
 ## Video Presentation
-Slide deck as pdf in this repo and video presentation
+Slide deck as pdf in this repo and video presentation: https://youtu.be/55CpixQhGQo
