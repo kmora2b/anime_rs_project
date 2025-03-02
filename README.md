@@ -1,0 +1,1 @@
+# anime_rs_project
